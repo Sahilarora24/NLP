@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+langchain
+langchain_community
+streamlit
+beautifulsoup4
+langchain-ollama
